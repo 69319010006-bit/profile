@@ -1,4 +1,4 @@
-# 👋 ยินดีต้อนรับสู่ GitHub ของฉัน! | [ใส่ชื่อ-นามสกุลของคุณที่นี่]
+# 👋 ยินดีต้อนรับสู่ GitHub ของฉัน! | [มรรควัฒน์ นันหน]
 
 <div align="center">
   <img src="https://rms.bncc.ac.th/files/importpicstd/01/69319010006.jpg" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;"/>
